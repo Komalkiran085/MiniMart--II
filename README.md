@@ -54,18 +54,18 @@ You can include a section like this:
 ## 📸 App Screenshots
 
 ### 🏠 Splash Screen
-![Splash Page](./screenshots/Image1.jpg)
-<img src="./screenshots/Image1.jpg" alt="Home Screen" width="300" />
+<img src="./screenshots/Image1.jpg" alt="Splash Screen" width="200" />
 
 ### 📄 List of Products
-![List](./screenshots/Image2.jpg)
+<img src="./screenshots/Image2.jpg" alt="Product List" width="200" />
 
 ### 🛒 Product View
-![Product](./screenshots/Image3.jpg)
-![Product](./screenshots/Image4.jpg)
+<img src="./screenshots/Image3.jpg" alt="Product View 1" width="200" />
+<img src="./screenshots/Image4.jpg" alt="Product View 2" width="200" />
 
-### Cart View
-![Cart](./screenshots/Image5.jpg)
+### 🛍️ Cart View
+<img src="./screenshots/Image5.jpg" alt="Cart View" width="200" />
 
 ### ✅ Order Confirmation
-![Confirmation](./screenshots/Image6.jpg)
+<img src="./screenshots/Image6.jpg" alt="Order Confirmation" width="200" />
+
