@@ -1,0 +1,2 @@
+# MiniMart
+An ecommerce application
