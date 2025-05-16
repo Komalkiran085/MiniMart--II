@@ -55,6 +55,7 @@ You can include a section like this:
 
 ### 🏠 Splash Screen
 ![Splash Page](./screenshots/Image1.jpg)
+<img src="./screenshots/Image1.jpg" alt="Home Screen" width="300" />
 
 ### 📄 List of Products
 ![List](./screenshots/Image2.jpg)
