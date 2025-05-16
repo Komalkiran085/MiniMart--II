@@ -1,55 +1,69 @@
-<<<<<<< HEAD
-# Welcome to your Expo app 👋
+# 🛍️ MiniMart
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+MiniMart is a simple e-commerce mobile application built using **React Native** and **Expo Router**. It allows users to browse products, view details, add items to a cart, and simulate a checkout process.
 
-## Get started
+---
 
-1. Install dependencies
+## 🚀 Features
 
-   ```bash
-   npm install
-   ```
+- 🛒 Browse a list of products
+- 🔍 View detailed product information
+- ➕ Add/remove items from cart
+- 🧾 View total cost and checkout
+- 📱 Optimized for both iOS and Android
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## 📦 Getting Started
 
-In the output, you'll find options to open the app in a
+Follow these steps to run the app locally.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
+### 1. Clone the Repository
 
 ```bash
-npm run reset-project
+git clone https://github.com/Komalkiran085/MiniMart-II.git
+cd MiniMart-II
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+### 2. Commands to set up
 
-## Learn more
+```bash
+npm install
+npm install -g expo-cli
+npx expo start
+```
 
-To learn more about developing your project with Expo, look at the following resources:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+---
 
-## Join the community
+### ✅ **3. Test Instructions (optional, to impress)**
 
-Join our community of developers creating universal apps.
+You can include a section like this:
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-=======
-# MiniMart
-An ecommerce application
->>>>>>> 96df9fdd30c4c358c1a472d420ad7e5bbe9b44d4
+```markdown
+## 👨‍💻 How to Test
+
+1. Open the app
+2. Browse through products on the Home screen
+3. Tap any product to view details
+4. Add to cart
+5. Navigate to the Cart tab
+6. Checkout to simulate purchase
+```
+
+## 📸 App Screenshots
+
+### 🏠 Home Screen
+![Home](./screenshots/home.png)
+
+### 📄 Product Details
+![Details](./screenshots/product-details.png)
+
+### 🛒 Cart With Items
+![Cart](./screenshots/cart.png)
+
+### 🚫 Empty Cart
+![Empty Cart](./screenshots/empty-cart.png)
+
+### ✅ Order Confirmation
+![Confirmation](./screenshots/order-confirmation.png)
